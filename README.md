@@ -31,11 +31,14 @@
 
 ### ⚙️ Setup Instructions
 1. **Clone the repository**
-2. **Install dependencies:**
+   ```bash
+   git clone https://github.com/Brenhuber/FitnessTrackerDashboard.git
+   cd FitnessTrackerDashboard
+3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the app:**
+4. **Run the app:**
    ```bash
    python app.py
    ```
